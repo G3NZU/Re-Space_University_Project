@@ -1,4 +1,6 @@
-# RE-SPACE_GAM390
+# RE-SPACE
+
+***For more information about the project, check documentation folder***
 
 ## How to start app:
 
